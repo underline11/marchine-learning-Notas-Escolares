@@ -12,21 +12,14 @@ Este projeto é uma calculadora simples para calcular a média de três notas. O
 
 - Python 3.x
 
-## Como Executar
-
-1. Certifique-se de que o Python 3.x está instalado em seu sistema.
-2. Clone este repositório para o seu ambiente local:
-    
-    git clone https://github.com/seu-usuario/calculadora-media-notas.git
-    ```
-3. Navegue para o diretório do projeto:
+## Navegue para o diretório do projeto:
    
     cd calculadora-media-notas
-    ```
-4. Execute o script Python:
+    
+## Execute o script Python:
     
     python calcular_media.py
-    ```
+    
 
 ## Contribuição
 
